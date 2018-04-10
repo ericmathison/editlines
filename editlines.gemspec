@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "editlines"
   spec.version       = Editlines::VERSION
   spec.authors       = ["Eric Mathison"]
-  spec.email         = ["dev@ekmathison.com"]
+  spec.email         = ["dev@ericmathison.io"]
   spec.summary       = %q{Extends core File class with File.editlines to edit lines in place}
   spec.description   = %q{Extends core File class with File.editlines to edit lines in place. File.editlines works like File.foreach except that the return value of its associated block replaces each line in place.}
   spec.homepage      = "https://github.com/ericmathison/editlines"
